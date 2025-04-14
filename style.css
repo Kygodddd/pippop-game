@@ -104,7 +104,7 @@ body {
 /* Karakter Utama */
 .wrapper {
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   align-items: center;
   margin-top: 120px; /* Sesuaikan posisi */
 }
